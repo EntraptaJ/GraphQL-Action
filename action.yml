@@ -1,0 +1,6 @@
+name: 'GraphQL Action'
+description: 'WIP GitHub Action that runs a GraphQL Mutation'
+author: 'Kristian Jones'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
